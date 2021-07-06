@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-image: linear-gradient(to right, rgb(157, 255, 0) , rgb(255, 0, 234));
+}
+
+.App {
+    text-align: center;
+}
+
+.App-header {
+    background-image: linear-gradient(to right, rgb(157, 255, 0) , rgb(255, 0, 234));
+    height: 70px;
+    padding: 20px;
+    color: white;
+}
+
+.App-intro {
+    font-size: large;
+}
+
+.navbar-brand {
+    display: inline-block;
+    border: none;
+    background-color: transparent;
+    color: rgb(194, 42, 118);
+}
+
+.navbar-brand span {
+    background-color: transparent;
+    color: rgb(194, 42, 118);
+}
+
+#status {
+    border: none;
+    background-color:rgb(99, 142, 170);
+    color: white;
+    height: 30px;
+    width: 200px;
+    margin: 10px 0;
+}
+
+#assign {
+    border: none;
+    background-color:rgb(99, 142, 170);
+    color: white;
+    height: 30px;
+    width: 200px;
+    margin: 10px 0;
+}
